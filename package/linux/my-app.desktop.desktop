@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name[pt_BR]=my-app.desktop
+Name=My App
+Comment=My App
+Exec=/opt/my-app/my-app
+Icon=/opt/my-app/my-app.png
+Terminal=false
+Type=Application
+Categories=Unknown
+
